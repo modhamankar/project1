@@ -1,2 +1,2 @@
 a=int(input("Enter name"))
-print(a
+print(a)
